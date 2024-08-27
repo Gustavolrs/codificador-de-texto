@@ -10,7 +10,7 @@ Clique em "Criptografar" para criptografar o texto ou em "Descriptografar" para 
 
 Clique em “Copiar” para copiar o texto descrito para a área de transferência.
 
-Estrutura do Projeto css Copiar código decodificador-de-texto/ ├── index.html ├── estilos.css ├── script.js └── img/ ├── imagem-alura.png └── menino-investigando. svg Contribuindo Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar bugs, sinta-se à vontade para abrir um issue ou enviar um pull request.
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar bugs, sinta-se à vontade para entrar em contato por email-gustavolrsc@gmail.com.
 
 Licença Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
